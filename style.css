@@ -672,8 +672,14 @@ textarea{
     .form-rigth{
         padding: 0;
     }
+    .form{
+        padding:20px 0 0 0 ;
+    }
     #menu{
         width: 100vw;
+    }
+    .video-container p{
+        padding: 0px;
     }
 
     
