@@ -474,10 +474,10 @@ header article p{
 
 
 /*Transparent text background*/
-/* .stroke{
+.stroke{
     color:transparent;
     -webkit-text-stroke: 1.5px var(--primary_dark);
-} */
+}
 
 
 /*Custom cursor coloring*/
