@@ -618,15 +618,15 @@ textarea{
 @media screen and (max-width: 420px ) {
     nav{
         justify-content: space-between;
-        padding: 0.5rem;
+        padding: 0.7rem;
         
     }
     .logo img{
-        height: 30px;
+        height: 40px;
     }
     nav .ham{
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
     }
     nav a{
         margin: 0;
@@ -687,15 +687,15 @@ textarea{
 @media screen and (max-width: 660px ) and (min-width:361px) {
     nav{
         justify-content: space-between;
-        padding: 0.5rem;
+        padding: 4rem;
         
     }
     .logo img{
-        height: 30px;
+        height: 40px;
     }
     nav .ham{
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
     }
     nav a{
         margin: 0;
