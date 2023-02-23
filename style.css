@@ -615,7 +615,7 @@ textarea{
     background-color: var(--secondary);
 }
 
-@media screen and (max-width: 390px ) {
+@media screen and (max-width: 420px ) {
     nav{
         justify-content: space-between;
         padding: 0.5rem;
@@ -685,6 +685,21 @@ textarea{
     
 }
 @media screen and (max-width: 660px ) and (min-width:361px) {
+    nav{
+        justify-content: space-between;
+        padding: 0.5rem;
+        
+    }
+    .logo img{
+        height: 30px;
+    }
+    nav .ham{
+        width: 30px;
+        height: 30px;
+    }
+    nav a{
+        margin: 0;
+    }
     .padding_1x{
         padding: 0;
     }
